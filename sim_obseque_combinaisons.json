@@ -1,0 +1,145 @@
+{
+  "combinaisons": [
+    {
+      "PREP": {
+        "code_section": "PREP",
+        "code_pack": "KDFO",
+        "section_type": "fixe-obligatoire",
+        "label": "La préparation et l'organisation d'obsèques",
+        "type_obseque": [
+          "inhumation",
+          "cremation"
+        ],
+        "type_ceremonie": [
+          "civile",
+          "religieuse",
+          "aucune"
+        ],
+        "lieu_ceremonie": [
+          "cimetière",
+          "MF",
+          "lieu de culte",
+          "autre lieu",
+          "sans lieu"
+        ],
+        "description": "Démarches administratives\\n- Démarches\\n- Organisation\\n-Espace Hommage",
+        "produits": [
+          {
+            "product_id": "002D",
+            "label": "Démarches"
+          },
+          {
+            "product_id": "002O",
+            "label": "Organisation"
+          },
+          {
+            "product_id": "465INM",
+            "label": "Espace Hommage"
+          }
+        ],
+        "poids": 1
+      },
+      "CERC": {
+        "code_section": "CERC",
+        "code_pack": "KCONECO",
+        "section_type": "flexible",
+        "label": "La préparation et l'organisation d'obsèques",
+        "type_obseque": [
+          "inhumation"
+        ],
+        "type_ceremonie": [
+          "religieuse"
+        ],
+        "lieu_ceremonie": [
+          "cimetière"
+        ],
+        "description": "",
+        "produits": [
+          {
+            "product_id": "C60126R",
+            "label": "Cercueil Milos en pin massif et son capiton blanc Basic équipé(*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité"
+          },
+          {
+            "product_id": "C33326",
+            "label": "Cercueil Acamar en carton recyclé et son capiton blanc Basic équipé (*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité"
+          },
+          {
+            "product_id": "C38026",
+            "label": "Cercueil Opala en pin massif et son capiton blanc Basic équipé(*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité"
+          }
+        ],
+        "poids": 2
+      },
+      "CER": {
+        "code_section": "CER",
+        "section_type": "flexible",
+        "label": "La cérémonie et le transport du défunt",
+        "type_obseque": [
+          "inhumation"
+        ],
+        "type_ceremonie": [
+          "religieuse"
+        ],
+        "lieu_ceremonie": [
+          "cimetière"
+        ],
+        "description": "Simple recueillement\\nVéhicule funéraire (corbillard) avec son chauffeur et ses porteurs",
+        "produits": [
+          {
+            "product_id": "040EC",
+            "label": "Corbillard"
+          },
+          {
+            "product_id": "014EC",
+            "label": "Porteurs"
+          }
+        ],
+        "poids": 3
+      },
+      "EH": {
+        "code_section": "EH",
+        "section_type": "fixe-obligatoire",
+        "label": "Espace hommage",
+        "type_obseque": [
+          "inhumation",
+          "cremation"
+        ],
+        "type_ceremonie": [
+          "civile",
+          "religieuse",
+          "aucune"
+        ],
+        "lieu_ceremonie": [
+          "cimetière",
+          "MF",
+          "lieu de culte",
+          "autre lieu",
+          "sans lieu"
+        ],
+        "description": "Un service d'hommage en ligne privé. Il permet à votre entourage de partager condoléances, photos et souvenirs pour rendre le plus bel hommage à votre proche."
+      },
+      "AD": {
+        "code_section": "AD",
+        "section_type": "fixe-obligatoire",
+        "label": "Avis de décès",
+        "type_obseque": [
+          "inhumation",
+          "cremation"
+        ],
+        "type_ceremonie": [
+          "civile",
+          "religieuse",
+          "aucune"
+        ],
+        "lieu_ceremonie": [
+          "cimetière",
+          "MF",
+          "lieu de culte",
+          "autre lieu",
+          "sans lieu"
+        ],
+        "description": "Un moyen simple de communiquer en ligne efficacement toutes les informations pratiques relatives aux obsèques."
+      }
+    }
+  ]
+}
