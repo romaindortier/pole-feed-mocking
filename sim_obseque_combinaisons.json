@@ -6,6 +6,7 @@
         "code_pack": "KDFO",
         "section_type": "fixe-obligatoire",
         "label": "La préparation et l'organisation d'obsèques",
+        "offert": true,
         "type_obseque": [
           "inhumation",
           "cremation"
@@ -44,6 +45,7 @@
         "code_pack": "KCONECO",
         "section_type": "flexible",
         "label": "La préparation et l'organisation d'obsèques",
+        "offert": true,
         "type_obseque": [
           "inhumation"
         ],
@@ -74,6 +76,7 @@
         "code_section": "CER",
         "section_type": "flexible",
         "label": "La cérémonie et le transport du défunt",
+        "offert": true,
         "type_obseque": [
           "inhumation"
         ],
@@ -100,6 +103,7 @@
         "code_section": "EH",
         "section_type": "fixe-obligatoire",
         "label": "Espace hommage",
+        "offert": true,
         "type_obseque": [
           "inhumation",
           "cremation"
@@ -122,6 +126,7 @@
         "code_section": "AD",
         "section_type": "fixe-obligatoire",
         "label": "Avis de décès",
+        "offert": true,
         "type_obseque": [
           "inhumation",
           "cremation"
@@ -137,8 +142,25 @@
           "lieu de culte",
           "autre lieu",
           "sans lieu"
-        ],
-        "description": "Un moyen simple de communiquer en ligne efficacement toutes les informations pratiques relatives aux obsèques."
+        ]
+      },
+      "OPTIONS": {
+        "code_section": "OPTIONS",
+        "section_type": "option",
+        "produits": [
+          {
+            "product_id": "XXXXX",
+            "label": "Maison funéraire"
+          },
+          {
+            "product_id": "XXXXX",
+            "label": "Formalité après décès"
+          },
+          {
+            "product_id": "XXXXX",
+            "label": "fleurs"
+          }
+        ]
       }
     }
   ]
