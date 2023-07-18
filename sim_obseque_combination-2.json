@@ -1,0 +1,208 @@
+{
+  "themes": [
+    {
+      "PREP": {
+        "label": "La préparation et l'organisation d'obsèques",
+        "lines": [
+          {
+            "label": "Démarches administratives",
+            "type_obseque": [
+              "inhumation"
+            ],
+            "type_ceremonie": [
+              "civile",
+              "religieuse",
+              "aucune"
+            ],
+            "lieu_ceremonie": [
+              "cimetière",
+              "MF",
+              "lieu de culte",
+              "autre lieu",
+              "sans lieu"
+            ],
+            "products": [
+              "002D"
+            ]
+          },
+          {
+            "label": "Organisation",
+            "type_obseque": [
+              "inhumation"
+            ],
+            "type_ceremonie": [
+              "civile",
+              "religieuse",
+              "aucune"
+            ],
+            "lieu_ceremonie": [
+              "cimetière",
+              "MF",
+              "lieu de culte",
+              "autre lieu",
+              "sans lieu"
+            ],
+            "products": [
+              "002O"
+            ]
+          },
+          {
+            "label": "Espace Hommage",
+            "type_obseque": [
+              "inhumation",
+              "cremation"
+            ],
+            "type_ceremonie": [
+              "civile",
+              "religieuse",
+              "aucune"
+            ],
+            "lieu_ceremonie": [
+              "cimetière",
+              "MF",
+              "lieu de culte",
+              "autre lieu",
+              "sans lieu"
+            ],
+            "products": [
+              "465INM"
+            ]
+          }
+        ]
+      },
+      "CERC": {
+        "label": "La préparation et l'organisation d'obsèques",
+        "lines": [
+          {
+            "label": "Cercueil Milos en pin massif et son capiton blanc Basic équipé(*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité",
+            "products": [
+              "C60126"
+            ],
+            "type_obseque": [
+              "inhumation"
+            ],
+            "type_ceremonie": [
+              "religieuse"
+            ],
+            "lieu_ceremonie": [
+              "cimetière"
+            ]
+          },
+          {
+            "label": "Cercueil Acamar en carton recyclé et son capiton blanc Basic équipé (*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité",
+            "products": [
+              "C33326"
+            ],
+            "type_obseque": [
+              "inhumation"
+            ],
+            "type_ceremonie": [
+              "religieuse"
+            ],
+            "lieu_ceremonie": [
+              "cimetière"
+            ]
+          },
+          {
+            "label": "Cercueil Opala en pin massif et son capiton blanc Basic équipé(*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité",
+            "products": [
+              "C38026"
+            ],
+            "type_obseque": [
+              "inhumation"
+            ],
+            "type_ceremonie": [
+              "religieuse"
+            ],
+            "lieu_ceremonie": [
+              "cimetière"
+            ]
+          }
+        ]
+      },
+      "CER": {
+        "code_section": "CER",
+        "lines": [
+          {
+            "label": "Corbillard",
+            "products": [
+              "040EC"
+            ],
+            "type_obseque": [
+              "inhumation"
+            ],
+            "type_ceremonie": [
+              "religieuse"
+            ],
+            "lieu_ceremonie": [
+              "cimetière"
+            ]
+          },
+          {
+            "label": "Porteurs",
+            "products": [
+              "014EC"
+            ],
+            "type_obseque": [
+              "inhumation"
+            ],
+            "type_ceremonie": [
+              "religieuse"
+            ],
+            "lieu_ceremonie": [
+              "cimetière"
+            ]
+          }
+        ]
+      },
+      "EH": {
+        "code_section": "EH",
+        "label": "Espace hommage",
+        "lines": [
+          {
+            "label": "Un service d'hommage en ligne privé. Il permet à votre entourage de partager condoléances, photos et souvenirs pour rendre le plus bel hommage à votre proche.",
+            "type_obseque": [
+              "inhumation",
+              "cremation"
+            ],
+            "type_ceremonie": [
+              "civile",
+              "religieuse",
+              "aucune"
+            ],
+            "lieu_ceremonie": [
+              "cimetière"
+            ]
+          }
+        ]
+      },
+      "AD": {
+        "code_section": "AD",
+        "label": "Avis de décès",
+        "lines": [
+          {
+            "label": "Un moyen simple de communiquer en ligne efficacement toutes les informations pratiques relatives aux obsèques.",
+            "type_obseque": [
+              "inhumation",
+              "cremation"
+            ],
+            "type_ceremonie": [
+              "civile",
+              "religieuse",
+              "aucune"
+            ],
+            "lieu_ceremonie": [
+              "cimetière"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "prop_init": 3,
+  "prop_taxe_crem": 760,
+  "prop_vac_police": 20,
+  "options": 100,
+  "remise": 400,
+  "total": 4
+}

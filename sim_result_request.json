@@ -1,0 +1,37 @@
+{
+  "motif": "décès",
+  "contact": {
+    "civilite": "M",
+    "nom": "Martin",
+    "prenom": "Robert",
+    "email": "333333333",
+    "tel": "333333333"
+  },
+  "agence": "ER404",
+  "products": {
+    "DEM": [
+      "002D",
+      "002O",
+      "465INM"
+    ],
+    "CERC": [
+      "C20226",
+      "A40016",
+      "292"
+    ],
+    "CER": [
+      "056",
+      "014CRE"
+    ],
+    "URN": [
+      "UR012",
+      "TI00215WEB"
+    ],
+    "EH": [
+      true
+    ],
+    "AD": [
+      true
+    ]
+  }
+}

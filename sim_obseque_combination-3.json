@@ -1,0 +1,87 @@
+{
+  "themes": [
+    {
+      "PREP": {
+        "label": "La préparation et l'organisation d'obsèques",
+        "lines": [
+          {
+            "label": "Démarches administratives",
+            "products": [
+              "002D"
+            ]
+          },
+          {
+            "label": "Organisation",
+            "products": [
+              "002O"
+            ]
+          },
+          {
+            "label": "Espace Hommage",
+            "products": [
+              "465INM"
+            ]
+          }
+        ]
+      },
+      "CERC": {
+        "label": "La préparation et l'organisation d'obsèques",
+        "lines": [
+          {
+            "label": "Cercueil Milos en pin massif et son capiton blanc Basic équipé(*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité",
+            "products": [
+              "C60126"
+            ]
+          },
+          {
+            "label": "Cercueil Acamar en carton recyclé et son capiton blanc Basic équipé (*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité",
+            "products": [
+              "C33326"
+            ]
+          },
+          {
+            "label": "Cercueil Opala en pin massif et son capiton blanc Basic équipé(*) de 4 poignées, d'une cuvette étanche et d'une plaque d'identité",
+            "products": [
+              "C38026"
+            ]
+          }
+        ]
+      },
+      "CER": {
+        "code_section": "CER",
+        "lines": [
+          {
+            "label": "Corbillard"
+          },
+          {
+            "label": "Porteurs"
+          }
+        ]
+      },
+      "EH": {
+        "code_section": "EH",
+        "label": "Espace hommage",
+        "lines": [
+          {
+            "label": "Un service d'hommage en ligne privé. Il permet à votre entourage de partager condoléances, photos et souvenirs pour rendre le plus bel hommage à votre proche.",
+          }
+        ]
+      },
+      "AD": {
+        "code_section": "AD",
+        "label": "Avis de décès",
+        "lines": [
+          {
+            "label": "Un moyen simple de communiquer en ligne efficacement toutes les informations pratiques relatives aux obsèques.",
+          }
+        ]
+      }
+    }
+  ],
+  "prop_init": 3,
+  "prop_taxe_crem": 760,
+  "prop_vac_police": 20,
+  "options": 100,
+  "remise": 400,
+  "total": 4
+}
